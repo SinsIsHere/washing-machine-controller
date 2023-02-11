@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Projects/Vivado/Washing_Machine/Washing_Machine.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Washing_Machine
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Projects/Vivado/Washing_Machine/testbench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module testbench
